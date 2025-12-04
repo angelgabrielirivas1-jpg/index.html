@@ -78,12 +78,12 @@
 
    <div id="section3">
         <h2>Nuestros Productos</h2>
-        <p>Vasos y platos biodegradables y reutilizables que cuidan el planeta.</p>
+        <p>contacta alos siguientes numeros.</p>
     </div> 
 
    <div id="section4">
         <h2>Nuestros Productos</h2>
-        <p>Vasos y platos biodegradables y reutilizables que cuidan el planeta.</p>
+        <p>cuenta con nosotros con lo sig.</p>
     </div>
 
 
